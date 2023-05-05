@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         
-        System.out.print("Bir sayı giriniz: ");
+        System.out.print("Bir sayı giriniz: " );
         int n = inp.nextInt();
         double result=0.0;
         
