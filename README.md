@@ -10,7 +10,7 @@ public class Main {
         int n = inp.nextInt(  );
         double result=0.0;
         
-        for (int i=1; i<=n; i++){
+        for (int i=1; i<=n; i++) {
             result += (1.0/i);
         }
         
