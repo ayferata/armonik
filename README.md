@@ -7,7 +7,7 @@ public class Main {
         Scanner inp = new Scanner(System.in);
         
         System.out.print("Bir sayı giriniz: " );
-        int n = inp.nextInt();
+        int n = inp.nextInt(  );
         double result=0.0;
         
         for (int i=1; i<=n; i++){
